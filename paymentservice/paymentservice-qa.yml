@@ -1,2 +1,5 @@
-
-Hello
+applicationconfiguration:
+host: http://localhost
+port : 3305
+username: paymeny-qa
+password: payment-qa
